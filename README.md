@@ -4,7 +4,7 @@ Inspired by the need to get immediate email alert, in case any wanted process ru
 
 This command-line utility runs indefinetly in the background polling server at regular intervals* to check if any required processes* are down, if so send emails to entire* team.<br/>
 Note: * are configurable
-<br/><br/>
+<br/>
 
 ##How to set up for use:
 1). First edit config.py as follows:<br/>
